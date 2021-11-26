@@ -1,0 +1,3 @@
+[submodule "sample_project"]
+	path = chapter01/sample_project
+	url = https://github.com/jnareb/Mastering-Git---Second-Edition---chapter01-sample_project.git
